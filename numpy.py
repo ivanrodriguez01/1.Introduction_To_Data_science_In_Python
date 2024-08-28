@@ -1,1 +1,1 @@
-'''Numpy is the fundamental package for numberic computing with Python. It provides powereful ways to create, store, and/or manipulate data, Whch'''
+'''Numpy is the fundamental package for numberic computing with Python. It provides powereful ways to create, store, and/or manipulate data, which makes it able to seamlessly and speedily integrate with a wide variety of databases. This is also the foundation that Pandas is built on'''
