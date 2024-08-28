@@ -8,3 +8,10 @@ Selecting elements from arrays
 Loading dataset into arryas
 
 This functions are usuful for manipulating data and understanding the functionalities of other common Python data packages'''
+#You'll recall that we import a library using the 'import' keyword. NumPy's common abbreviation is np
+
+import numpy as np
+import math
+
+# Array Creation
+# Arrays are displayed as a list or list of lists and can be created through list
