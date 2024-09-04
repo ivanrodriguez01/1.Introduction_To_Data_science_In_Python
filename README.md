@@ -5,7 +5,7 @@ This course is taught on coursera and I'm learning how to use better GitHub at t
 
 ## Module 1
 
-This is an introduction to the field of Data Science, we're going to revie some common Python functionalities, features Data Scientist use and a brief introduction of Jupyter Notebooks.
+This is an introduction to the field of Data Science, we're going to review some common Python functionalities, features a Data Scientist uses and a brief introduction of Jupyter Notebooks.
 
 ### Learning Objectives
 
